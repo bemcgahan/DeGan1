@@ -1,0 +1,3 @@
+I learned that the framebuffer is a main component of the graphics system. The detail of the framebuffer is dependent on the number of pixels in the framebuffer. 
+
+I also learned that sets of verticies and pixels are processed in a similar way so that a pipeline architecture can be used in computer graphics. Data can be processed simultaneously.
